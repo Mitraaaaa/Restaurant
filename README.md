@@ -1,2 +1,2 @@
-# Restaurant-
+# Restaurant
 Data-structure Project
