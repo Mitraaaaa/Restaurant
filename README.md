@@ -31,6 +31,7 @@ This project is for restaurant administraition for following matarials
 
 * In order to use all functions in this part first you may enter the restaurant 's map , if you don't do so you'll be warned.
     Map's enteries should have the following format with opetional number of size and characters place :
+
       #+#+$++++#
       +#++#+###+
       a+###++#++
@@ -41,6 +42,7 @@ This project is for restaurant administraition for following matarials
       ++++#e#+##
       ++#++##+#+
       d####+++#+
+      
       * English characters(a,b,..c) are presented as tables.
       * $ is used as kitchen .
       * # shows the obstacles in waitress way to deliver food.
