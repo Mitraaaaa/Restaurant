@@ -1,13 +1,13 @@
 # Data-Structure Project
 
-## This project's menu is in console, the main focus is on the algorithms.
+* This project's menu is in console, the main focus is on the algorithms.
 
-## This project is for restaurant administraition for following matarials 
+## This project is for restaurant administraition for the following matarials 
  * storing customer's data 
  * storing foods and their requirments 
  * geting service and finding the shortes path to deliver the food
  * finding the shortest path among all the tables
- * asigning turns to each customer that enters & taking their services by their priority 
+ * assigning turns to each customer that enters & taking their services by their priority 
 
 
 ## Welcome page 
@@ -30,7 +30,8 @@
 ## 2. Delivery
 
 * In order to use all functions in this part first you may enter the restaurant 's map , if you don't do so you'll be warned.
-    Map's enteries should have the following format with opetional number of size and characters place :
+
+   * Map's enteries should have the following format with opetional number of size and characters' place :
 
       #+#+$++++#
       +#++#+###+
@@ -49,13 +50,13 @@
  Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
       
 ### Deliver Fucntions 
+<img src="Guide/4.png" width="600">
   * Finding the shortest path (Bfs is used for the calculating the following function).
   
   * Finding the shortest path crossing all the nodes (Travel’s salesman problem) --> (Dynamic Programming and Recursive algorithm is used for this part).
   
   * Finding the shortets path between to two desired table.
 
-<img src="Guide/4.png" width="600">
 
 * Maps entery :
 <img src="Guide/5.png" width="600">
@@ -73,21 +74,22 @@
 <img src="Guide/8.png" width="600">
 
 ## 3. Kitchen 
-* Algorithms of this part are Graph algorithms including BFS and Topilogical Sort 
-    Sample format of foods can be seen here {https://github.com/Mitraaaaa/Restaurant/tree/main/Food%20Recipes }
+* Algorithms of this part are Graph algorithms including BFS and Topilogical Sort .
+* Sample format of foods can be seen here {https://github.com/Mitraaaaa/Restaurant/tree/main/Food%20Recipes }
     
     * Kitchen Menu
    
     <img src="Guide/9.png" width="600">
      
     ## This part gives the abilities to :
-    * 1.Enter foods'name and it's prerequisites (The Format is written in each option),also you may print the Topoligical sort( sort by number of           prerequisites).
+    * Enter foods'name and it's prerequisites (The Format is written in each option).
    
      <img src="Guide/10.png" width="600">
+    * also you may print the Topoligical sort( sort by number of prerequisites).
      <img src="Guide/11.png" width="600">
      
      
-    * 2. Add a relation to a food you desire :
+    * Add a relation to a food you desire :
 
     <img src="Guide/14.png" width="600">
     
@@ -105,7 +107,7 @@
 
     <img src="Guide/19.png" width="600">
 
-    * Deletes the nodes given either name or their turn :
+    * Deletes the nodes given either name or their turn (for example deletes Mike) :
 
      <img src="Guide/20.png" width="600">
 
@@ -113,6 +115,5 @@
 
     <img src="Guide/22.png" width="600">
     
-    * Search people by their turn (the last operation shown in the picture which gives Adam by the turn 10) :
+    * Search people by their turn (the last operation shown in the last picture which gives Adam by the turn 10) :
 
-    <img src="Guide/22.png" width="600">
