@@ -88,6 +88,7 @@
      
      
     * 2. Add a relation to a food you desire :
+
     <img src="Guide/14.png" width="600">
     
     
@@ -96,17 +97,22 @@
     <img src="Guide/17.png" width="600">
     
     ### Party Functions :
-    * Add people's names and turns.
+    * Add people's names and turns:
+    
     <img src="Guide/18.png" width="600">
     
     * Show the tree created by their names based on their turns :
+
     <img src="Guide/19.png" width="600">
 
     * Deletes the nodes given either name or their turn :
+
      <img src="Guide/20.png" width="600">
 
     * Get the whole instructions all at once and do them :
+
     <img src="Guide/22.png" width="600">
     
     * Search people by their turn (the last operation shown in the picture which gives Adam by the turn 10) :
+
     <img src="Guide/22.png" width="600">
