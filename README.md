@@ -49,9 +49,9 @@
  Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
       
 ### Deliver Fucntions 
-  ** Finding the shortest path (Bfs is used for the calculating the following function).
-  ** Finding the shortest path crossing all the nodes (Travel’s salesman problem) --> (Dynamic Programming and Recursive algorithm is used for this part).
-  ** Finding the shortets path between to two desired table.
+  **Finding the shortest path (Bfs is used for the calculating the following function).
+  **Finding the shortest path crossing all the nodes (Travel’s salesman problem) --> (Dynamic Programming and Recursive algorithm is used for this part).
+  **Finding the shortets path between to two desired table.
 
 <img src="Guide/4.png" width="600">
 
@@ -73,10 +73,11 @@
 ## 3. Kitchen 
 * Algorithms of this part are Graph algorithms including BFS and Topilogical Sort 
     Sample format of foods can be seen here {https://github.com/Mitraaaaa/Restaurant/tree/main/Food%20Recipes }
-    ** Kitchen Menu
+    
+    **Kitchen Menu
     <img src="Guide/9.png" width="600">
      
-    ** This part gives the abilities to :
+    **This part gives the abilities to :
     * 1.Enter foods'name and it's prerequisites (The Format is written in each option),also you may print the Topoligical sort( sort by number of           prerequisites).
    
      <img src="Guide/10.png" width="600">
