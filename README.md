@@ -31,7 +31,7 @@
 
 * In order to use all functions in this part first you may enter the restaurant 's map , if you don't do so you'll be warned.
 
-   * Map's enteries should have the following format with opetional number of size and characters' place :
+   Map's enteries should have the following format with opetional number of size and characters' place :
 
       #+#+$++++#
       +#++#+###+
