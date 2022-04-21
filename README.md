@@ -85,7 +85,9 @@
     * Enter foods'name and it's prerequisites (The Format is written in each option).
    
      <img src="Guide/10.png" width="600">
+     
     * also you may print the Topoligical sort( sort by number of prerequisites).
+   
      <img src="Guide/11.png" width="600">
      
      
