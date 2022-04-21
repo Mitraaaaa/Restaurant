@@ -43,10 +43,10 @@ This project is for restaurant administraition for following matarials
       ++#++##+#+
       d####+++#+
       
-      * English characters(a,b,..c) are presented as tables.
-      * $ is used as kitchen .
-      * # shows the obstacles in waitress way to deliver food.
-      Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
+ * English characters(a,b,..c) are presented as tables.
+ * $ is used as kitchen .
+ * # shows the obstacles in waitress way to deliver food.
+ Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
       
 ### Deliver Fucntions 
   ** Finding the shortest path (Bfs is used for the calculating the following function).
