@@ -47,10 +47,12 @@
  * English characters(a,b,..c) are presented as tables.
  * "$" is used as kitchen .
  * "#" shows the obstacles in waitress way to deliver food.
- Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
+ * Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
       
 ### Deliver Fucntions 
-<img src="Guide/4.png" width="600">
+
+   <img src="Guide/4.png" width="600">
+
   * Finding the shortest path (Bfs is used for the calculating the following function).
   
   * Finding the shortest path crossing all the nodes (Travel’s salesman problem) --> (Dynamic Programming and Recursive algorithm is used for this part).
