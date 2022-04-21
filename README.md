@@ -1,5 +1,7 @@
 # Data-Structure Project
 
+This project is written by Mitra Omrani & Shaghayegh Shahbazi 
+
 * This project's menu is in console, the main focus is on the algorithms.
 
 ## This project is for restaurant administraition for the following matarials 
@@ -121,5 +123,3 @@
     
     * Search people by their turn (the last operation shown in the last picture which gives Adam by the turn 10) :
 
-
-Written by Mitra Omrani 
