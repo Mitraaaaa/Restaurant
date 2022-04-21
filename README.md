@@ -1,8 +1,8 @@
 # Data-Structure Project
 
-This project's menu is in console, the main focus is on the algorithms.
+##This project's menu is in console, the main focus is on the algorithms.
 
-This project is for restaurant administraition for following matarials 
+##This project is for restaurant administraition for following matarials 
  * storing customer's data 
  * storing foods and their requirments 
  * geting service and finding the shortes path to deliver the food
@@ -44,14 +44,27 @@ This project is for restaurant administraition for following matarials
       d####+++#+
       
  * English characters(a,b,..c) are presented as tables.
- * $ is used as kitchen .
- * # shows the obstacles in waitress way to deliver food.
+ * "$" is used as kitchen .
+ * "#" shows the obstacles in waitress way to deliver food.
  Other testcases for map can be find here { https://github.com/Mitraaaaa/Restaurant/tree/main/Maps }.
       
 ### Deliver Fucntions 
   ** Finding the shortest path (Bfs is used for the calculating the following function).
-  ** Finding the shortest path crossing all the nodes (Travel’s salesman problem) --> (Dynamic Programming and Recursive algorithm is used for this part.)
-  ** Finding the shortets path between to tables.
+  ** Finding the shortest path crossing all the nodes (Travel’s salesman problem) --> (Dynamic Programming and Recursive algorithm is used for this part).
+  ** Finding the shortets path between to two desired table.
 
 <img src="Guide/4.png" width="600">
-        
+
+* Maps entery :
+<img src="Guide/5.png" width="600">
+
+* Shortest path from kitchen to any optional table you desire : 
+<img src="Guide/6.png" width="600">
+
+* Shortest path length passing all the tables :
+<img src="Guide/7.png" width="600">
+
+* Shortest path between two desired tables :
+<img src="Guide/8.png" width="600">
+
+## 3. Kitchen 
